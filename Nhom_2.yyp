@@ -51,6 +51,7 @@
   "name":"Nhom_2",
   "resources":[
     {"id":{"name":"back","path":"objects/back/back.yy",},},
+    {"id":{"name":"tesst","path":"objects/tesst/tesst.yy",},},
     {"id":{"name":"r_level1","path":"rooms/r_level1/r_level1.yy",},},
     {"id":{"name":"r_level2","path":"rooms/r_level2/r_level2.yy",},},
     {"id":{"name":"r_level3","path":"rooms/r_level3/r_level3.yy",},},
